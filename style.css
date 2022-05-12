@@ -1,0 +1,99 @@
+body {
+	margin: 5px;
+	padding: 20px;
+	box-sizing: border-box;
+	background-color:#3C91D6;
+	font-family: Oswald;
+}
+
+.hero {
+	text-align: center;
+	background-color: #73DDC4;
+	width: 100%;
+
+}
+.starter{
+	
+	font-family: Oswald;
+	width: 100%;
+}
+
+.photo {
+	text-align: center;
+}
+.lilbaby {
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}
+
+h2 {
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+}
+
+.dates {
+	display: flex;
+}
+
+
+
+.hero{
+	display: block;
+	margin: auto;
+	margin-right: auto;
+	width: 25%;
+
+}
+.left{
+	text-align: center;
+	margin: auto;
+}
+.right{
+	text-align: center;
+	margin: auto;
+
+}
+
+.album{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	
+}
+
+.album div{
+	width: 30%;
+	margin-bottom: 30px;
+
+}
+
+.album div img{
+	width: 100%;
+}
+
+
+.email{
+	text-align: center;
+}
+.chicken{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.chicken div{
+	width: 22%;
+	margin-bottom: 30px;
+}
+
+.chicken div img{
+	width: 100%;
+}
+.Rapper{
+	text-align: center;
+	property text-decoration: underline;
+}
